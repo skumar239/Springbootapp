@@ -1,4 +1,4 @@
-# springboot-microservice
+# Java springboot-microservice
 
 ![microservice-diagram](https://user-images.githubusercontent.com/76038143/199672306-b2ac8001-8e3b-404e-bb42-d0b036b44aa1.jpeg)
 
